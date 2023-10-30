@@ -1,5 +1,5 @@
 PROG = main.exe 
-SRC = main.cpp struct1.cpp
+SRC = main.cpp struct1.cpp objects3.cpp
 CFLAGS = -g
 LIBS = 
 CC=g++

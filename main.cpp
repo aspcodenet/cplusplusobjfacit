@@ -2,6 +2,8 @@
 #include <vector>
 #include <string>
 #include "struct1.h"
+#include "objects3.h"
+
 using namespace std;
 
 class Car
@@ -68,8 +70,8 @@ void editCar(vector<Car> &cars){
 
 
 int main(){
-    run_struct1();
-
+    //run_struct1();
+    run_objects3();
 
     bool shouldExit = false;
     vector<Car> cars;
