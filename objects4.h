@@ -1,6 +1,8 @@
 #ifndef __OBJECT4_H
 #define __OBJECT4_H
 
+#include <string>
+using namespace std;
 namespace objects4{
 
 
